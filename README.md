@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Frank Wu (Yi-Hong Wu)</h1>
 <h3 align="center">An international student with an MBA degree, pursing a second master degree of computer science.</h3>
 
-- 🔭 I’m currently working on **Unix learning and network security**
+- 🔭 I’m currently working on **Advanced Web Development**
 
-- 🌱 I’m currently learning **Data mining, Network Security, System programming.**
+- 🌱 I’m currently learning **Advanced Web Development, Data mining, Network Security, System programming.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/cydy80229](https://github.com/cydy80229)
 
