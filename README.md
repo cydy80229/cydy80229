@@ -13,6 +13,8 @@
 
 - This is my personal website https://cydy80229.github.io/personal-website/
 
+- This is my resume https://cydy80229.github.io/resume/
+
 - I am new to GitHub, and I am humble. Please leave your comment if you see I am making mistakes. 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
